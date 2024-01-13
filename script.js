@@ -20,6 +20,29 @@ if(num.value.length == 0)
         tab.appendChild(item)
         c++
     }
+
+
 }
+
+
+
+    let num = [5,8,4]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 }
